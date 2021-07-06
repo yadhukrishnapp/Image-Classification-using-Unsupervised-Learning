@@ -2,7 +2,7 @@
 An Image Classifier implemented using deep learning libraries like Python Imaging Library, Open CV, TensorFlow etc.
 
 # Image Loading
-Image is loaded by using four different methods : 
+Image is loaded using four different methods : 
   1) IPython.display
   2) Tensorflow.Keras API - Preprocessing
   3) Open CV
